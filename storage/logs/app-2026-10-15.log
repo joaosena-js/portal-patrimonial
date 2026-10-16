@@ -1,0 +1,55 @@
+[2026-10-15 16:40:27] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/public/","metodo":"GET"}
+[2026-10-15 16:40:34] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:37] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:38] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:39] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:39] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:39] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:39] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:40] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:40] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:40:40] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:46:52] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:46:55] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:48:49] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:48:50] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:48:52] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:48:54] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:48:55] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:49:17] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:50:22] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:53:13] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:53:14] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:53:15] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 16:55:20] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/criar_admin.php","metodo":"GET"}
+[2026-10-15 16:55:22] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/criar_admin.php","metodo":"GET"}
+[2026-10-15 16:55:26] ERROR: ParseError: syntax error, unexpected token "array", expecting variable {"arquivo":"C:\\xampp\\htdocs\\portal-patrimonial\\app\\Core\\Router.php","linha":16,"url":"/portal-patrimonial/","metodo":"GET"}
+[2026-10-15 19:20:32] WARNING: Token CSRF inválido {"url":"/portal-patrimonial/login","ip":"::1"}
+[2026-10-15 19:20:36] WARNING: Falha de login {"usuario_id":null,"ip":"::1"}
+[2026-10-15 19:31:37] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:43] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:48] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:51] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:53] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:55] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:31:57] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:00] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:02] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:05] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:07] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:10] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:12] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:13] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:16] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:16] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:16] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:17] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:17] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:18] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:18] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:18] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:21] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:22] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:32:23] WARNING: Falha de login {"usuario_id":2,"ip":"::1"}
+[2026-10-15 19:34:19] WARNING: Acesso negado {"url":"/portal-patrimonial/admin/usuarios","ip":"::1"}
+[2026-10-15 19:35:42] WARNING: Token CSRF inválido {"url":"/portal-patrimonial/login","ip":"::1"}
