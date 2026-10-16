@@ -1,0 +1,17 @@
+# Configuração local e segredos
+.env
+
+# Logs gerados pela aplicação
+storage/logs/*
+!storage/logs/.gitkeep
+
+# Dependências e arquivos de editor
+vendor/
+.idea/
+.vscode/
+*.log
+Thumbs.db
+
+# Arquivos enviados pelos usuários
+storage/uploads/*
+!storage/uploads/.gitkeep

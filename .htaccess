@@ -1,0 +1,12 @@
+# Permite acessar o projeto em http://localhost/portal-patrimonial/ no XAMPP,
+# sem expor as pastas app, config, database, routes e storage.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ public/ [L]
+    RewriteRule ^(?!public/)(.*)$ public/$1 [L]
+</IfModule>
+
+# Nunca servir arquivos de configuração
+<FilesMatch "^\.(env|git)">
+    Require all denied
+</FilesMatch>
